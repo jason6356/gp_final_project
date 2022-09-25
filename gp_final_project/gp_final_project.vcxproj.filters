@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="final.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="skyBack.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="skyBtm.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="skyFront.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="skyLeft.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="skyRight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="skyTop.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="yellowFace.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="backHead.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="backRect.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="blackWeapon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="blueDetails.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="blueEye.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="blueJoint.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="buildBack.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="buildBtm.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="buildFront.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="buildLeft.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="buildRight.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="buildSky.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="darkGrey.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="darkRed.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="earColor.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="goldWeapon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="jointLegCover.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="legDetails.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="legMuscle.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="middleSphere.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="paintYellow.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="red.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="redShinny.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="redWeapon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="shinyBlack.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="shinySilver.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sideHead.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="sideHeadRadio.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="silverWeapon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="blueColor.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="blueMetal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="orange.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="s1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Angry.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Blank.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Dead.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Exclamation.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Glitched.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Happy.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="KO.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Love.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Question mark.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Sad.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
